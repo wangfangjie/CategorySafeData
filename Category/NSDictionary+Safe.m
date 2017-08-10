@@ -20,8 +20,6 @@ return ([(NSString *)_ret func2]);\
 }\
 }
 
-
-
 #define IS_KIND_OF(obj, cls) [(obj) isKindOfClass:[cls class]]
 
 #if DEBUG
